@@ -1,5 +1,5 @@
 <?php 
-namespace Vehicle;
+namespace com\vehicle;
 
 interface EngineInterface 
 {
