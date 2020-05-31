@@ -2,8 +2,6 @@
 
 namespace com\engine;
 
-require 'vendor/com/vehicle/EngineInterface.php';
-
 use com\vehicle\EngineInterface;
 
 class MotorCycleEngine implements EngineInterface

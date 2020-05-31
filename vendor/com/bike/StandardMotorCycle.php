@@ -2,9 +2,6 @@
 
 namespace com\bike;
 
-require_once 'Bike.php';
-require_once 'vendor/com/engine/MotorCycleEngine.php';
-
 use com\bike\Bike;
 use com\engine\MotorCycleEngine;
 

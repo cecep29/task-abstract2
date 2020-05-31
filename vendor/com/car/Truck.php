@@ -1,9 +1,6 @@
 <?php 
 namespace com\car;
 
-require_once 'vendor/com/engine/CarEngine.php';
-require_once 'Car.php';
-
 use com\car\Car;
 use com\engine\CarEngine;
 
