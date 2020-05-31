@@ -1,0 +1,3 @@
+[submodule "loader"]
+	path = loader
+	url = https://gist.github.com/jwage/221634
